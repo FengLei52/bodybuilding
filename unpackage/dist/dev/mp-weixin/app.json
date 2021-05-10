@@ -1,0 +1,24 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/find/find",
+    "pages/my/myLogin",
+    "pages/index/privateTeaching",
+    "pages/index/coachDetail",
+    "pages/index/Subscribe",
+    "pages/index/brandIntroduce",
+    "pages/find/yoga",
+    "pages/index/teachingAmbient",
+    "pages/class/class",
+    "pages/my/healthBase",
+    "pages/find/shopDetail",
+    "pages/class/classDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap27.json"
+}

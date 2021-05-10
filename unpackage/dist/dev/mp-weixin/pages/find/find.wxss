@@ -1,0 +1,40 @@
+
+.hotTitle{
+	padding:0 24rpx 40rpx;
+}
+.findTitle{
+	display: none;
+	font-size: 32rpx;
+	color: #5a5a5a;
+	position: absolute;
+	top: 336rpx;
+}
+.pushHolder{
+	width: 100%;
+	white-space: nowrap;
+}
+.pushItem{
+	display: inline-block;
+	margin-left: 22rpx;
+	width: 310rpx;
+}
+.pushItem:first-child{
+	margin-left: 50rpx;
+}
+.pushItem:last-child{
+	margin-right: 50rpx;
+}
+.pushItem image{
+	width: 310rpx;
+	height: 400rpx;
+}
+.pushItem text{
+	font-size: 26rpx;
+	color: #5a5a5a;
+	display: inline-block;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+

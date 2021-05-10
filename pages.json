@@ -1,0 +1,85 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle" : "custom"
+			}
+		},{
+			"path": "pages/find/find",
+			"style": {
+				"navigationStyle" : "custom"
+			}
+		},{
+            "path" : "pages/my/myLogin",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        },{
+            "path" : "pages/index/privateTeaching",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        },{
+            "path" : "pages/index/coachDetail",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/index/Subscribe",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/index/brandIntroduce",
+            "style" : {
+				"navigationBarTextStyle" : "white",
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/find/yoga",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/index/teachingAmbient",
+            "style" : {
+				"navigationBarTextStyle" : "white",
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/class/class",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/my/healthBase",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/find/shopDetail",
+            "style" : {
+				"navigationBarTextStyle" : "white",
+				"navigationStyle" : "custom"
+			}
+        }
+        ,{
+            "path" : "pages/class/classDetail",
+            "style" : {
+				"navigationStyle" : "custom"
+			}
+        }
+    ],
+    "globalStyle" : {
+        "navigationBarTextStyle" : "black",
+        "navigationBarBackgroundColor" : "#fff"
+    }
+}

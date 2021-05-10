@@ -1,0 +1,65 @@
+
+.infoContainer{
+	box-sizing: border-box;
+	padding: 0 24rpx 24rpx;
+}
+.infoItem{
+	width: 100%;
+	height: 656rpx;
+	background: #214696;
+	border-radius: 10rpx;
+	overflow: hidden;
+}
+.userInfo{
+	margin: 104rpx 0 80rpx;
+	height: 250rpx;
+	text-align: center;
+}
+.headPhoto{
+	width: 180rpx;
+	height: 180rpx;
+	line-height: 180rpx;
+	border-radius: 50%;
+	background: #fff;
+	display: inline-block;
+	overflow: hidden;
+}
+.headPhoto image{
+	width: 100%;
+	height: 100%;
+}
+.nickName{
+	font-size: 32rpx;
+	color: #fff;
+	line-height: 72rpx;
+}
+.myData{
+	padding: 0 92rpx;
+	box-sizing: border-box;
+}
+.company{
+	font-size: 26rpx;
+	color: #fff;
+	opacity: 0.72;
+}
+.leri-border{
+	border-left: 1rpx solid rgba(255,255,255,0.72);
+	border-right: 1rpx solid rgba(255,255,255,0.72);
+}
+.myOptions{
+	height: 60rpx;
+	line-height: 60rpx;
+	text-align: center;
+	color: #333;
+	font-size: 32rpx;
+	margin-bottom: 50rpx;
+}
+.btnGet{
+	display: block;
+	color: #fff;
+	background: none!important;
+}
+.btnGet::after{
+	content: none;
+}
+

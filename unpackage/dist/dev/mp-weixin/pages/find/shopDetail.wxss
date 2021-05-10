@@ -1,0 +1,81 @@
+
+.titleView{
+	width: 25%;
+	float: left;
+}
+.contentView{
+	display: inline-block;
+	width: 75%;
+	text-align: justify;
+}
+.bottomLine{
+	border-bottom: 1rpx solid #979797;
+}
+.paddTB{
+	padding: 50rpx 0 30rpx;
+}
+.lineHeight{
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.marginTB{
+	margin: 10rpx 0;
+}
+.backView{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 698rpx;
+}
+.navContent{
+	background: none;
+	color: #fff;
+}
+.backView image{
+	width: 100%;
+	height: 100%;
+}
+.headTop{
+	position: relative;
+	top: 628rpx;
+	z-index: 6;
+	background: #272631;
+	border-radius: 36rpx 36rpx 0 0;
+	padding: 42rpx 0;
+}
+.white{
+	color: rgba(255,255,255,.8);
+}
+.titleWhite{
+	color: rgba(255,255,255,.56);
+}
+.wife{
+	width: 56rpx;
+	height: 40rpx;
+	margin: 8rpx 0;
+}
+.shower{
+	width: 50rpx;
+	height: 56rpx;
+}
+.alarmClock{
+	width: 56rpx;
+	height: 56rpx;
+}
+.machine{
+	width: 53rpx;
+	height: 56rpx;
+}
+.orderBtn{
+	width: 394rpx;
+	height: 90rpx;
+	line-height: 90rpx;
+	padding: 0;
+	background: #3B5BA0;
+	color: #fff;
+	border-radius: 50rpx;
+	margin-top: 60rpx;
+	margin-bottom: 50rpx;
+}
+

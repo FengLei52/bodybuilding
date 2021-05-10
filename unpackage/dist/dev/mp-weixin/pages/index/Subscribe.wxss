@@ -1,0 +1,87 @@
+
+.coachBack{
+	padding: 0 24rpx 36rpx;
+	background: rgb(242,242,242);
+}
+.coachInfo{
+	height: 746rpx;
+	background: #314D8F;
+	border-radius: 10rpx;
+	overflow: hidden;
+	margin-bottom: 20rpx;
+}
+.coachUser{
+	margin: 70rpx 0;
+	text-align: center;
+}
+.coachUser image{
+	width: 248rpx;
+	height: 248rpx;
+	border-radius: 50%;
+	margin: 0 auto 10rpx;
+}
+.coachTag{
+	overflow: hidden;
+}
+.coachTag text{
+	font-size: 24rpx;
+	display: inline-block;
+	padding: 8rpx 24rpx;
+	color: #ccd4ff;
+	border: 1rpx solid #ccd4ff;
+	border-radius: 22rpx;
+	margin-left: 46rpx;
+	margin-bottom: 32rpx;
+}
+.hotTitle{
+	padding:30rpx 24rpx 20rpx;
+	color: #5a5a5a;
+	font-weight: 500;
+}
+.dateSelect-item{
+	margin-left: 22rpx;
+	background: #f1f4fd;
+	padding: 16rpx 0;
+	border-radius: 6rpx;
+}
+.dateSelect-time{
+	margin-left: 22rpx;
+	background: #f1f4fd;
+	padding: 2rpx 0 8rpx;
+	border-radius: 6rpx;
+}
+.dateSelect-item:first-child text{
+	color: #F96D1B!important;
+}
+.dateSelect-item:last-child,.dateSelect-time:last-child{
+	margin-right: 22rpx;
+}
+.dateSelect-active{
+	background: #395493!important;
+	color: #FFFFFF!important;
+}
+.dateSelect-item text:nth-child(1){
+	font-size: 32rpx;
+	color: #395493;
+}
+.dateSelect-item text:nth-child(2){
+	font-size: 22rpx;
+	color: #8f8f8f;
+	margin-top: 6rpx;
+}
+.dateSelect-active text:nth-child(1){
+	color: #fff!important;
+}
+.dateSelect-active text:nth-child(2){
+	color: rgba(255,255,255,0.72)!important;
+}
+.orderBtn{
+	width: 394rpx;
+	height: 90rpx;
+	line-height: 90rpx;
+	padding: 0;
+	background: #3B5BA0;
+	color: #fff;
+	border-radius: 50rpx;
+}
+

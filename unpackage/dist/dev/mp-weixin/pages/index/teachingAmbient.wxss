@@ -1,0 +1,44 @@
+
+.status_bar{
+	background: rgb(14,51,115);
+}
+.medium{
+	font-size: 32rpx;
+}
+.big{
+	font-size: 44rpx;
+}
+page{
+	background: url('http://m.qpic.cn/psc?/V14MCMD02ANAGG/gZJkV0R4*Tt*yk3U.9dEShsAN15kiTSxPYHOcq7je6TqUW0kqjqOMGTf25nThgYEeA4byTZms9n8hMH6w*2smg!!/mnull&bo=5wOaAucDmgIDByI!&rf=photolist&t=5') no-repeat;
+	background-size: 100% 100%;
+}
+.logoHolder{
+	margin-top: 25px;
+	width: 86rpx;
+	height: 88rpx;
+	padding: 20rpx 0 0 48rpx;
+}
+.logoHolder image{
+	width: 100%;
+	height: 100%;
+}
+.teachingSlogan{
+	margin: 5.2% 0 48rpx;
+}
+.imageContainer {
+	width: 100%;
+	height: 848rpx;
+}
+.swiperitem{
+	height: 580rpx;
+	width: 526rpx;
+}
+.itemImg{
+	height: 620rpx;
+	top: 11%;
+}
+.swiperactive{
+	height: 788rpx;
+	top: 0;
+}
+
